@@ -4,7 +4,7 @@
 [![Latest Stable Version](https://img.shields.io/pypi/v/watson-developer-cloud.svg)](https://pypi.python.org/pypi/watson-developer-cloud)
 [![Download Times](https://img.shields.io/pypi/dm/watson-developer-cloud.svg)](https://pypi.python.org/pypi/watson-developer-cloud)
 
-Python client library to quickly get started with the various [Watson Developer Cloud][wdc] services.
+Python client library to quickly get started with the various [Watson Developer Cloud][wdc] services. This was forked from Watson Developer Cloud.
 
 ## Installation
 
